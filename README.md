@@ -8,9 +8,11 @@ Some of these calculators require the XonGrid add-in to perform interpolation. Y
 need this add-in which can be found here: http://xongrid.sourceforge.net/  
   
 **NOTE**  
-I found that XonGrid does not work with 64bit Office 365 even you install the 64bit  
+~~I found that XonGrid does not work with 64bit Office 365 even you install the 64bit  
 version. To use this add-in you will need 32bit Office 365 and to install the 32bit  
-version of XonGrid.  
+version of XonGrid.~~
+
+xongrid version 3 seems to work.
   
 5.9 Cummins Tune Calc (all stock loaded) protected  
 INPUT TABLES (GREEN):  
